@@ -10,17 +10,17 @@ Credits:
   Template:
     Massively (html5up.net)
    
-	Demo Images:
-		Unsplash (unsplash.com)
+  Demo Images:
+    Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+  Icons:
+    Font Awesome (fontawesome.io)
   
   Library:
     p5.js (p5js.org)
     MathJax (mathjax.org)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+  Other:
+    jQuery (jquery.com)
+    Scrollex (github.com/ajlkn/jquery.scrollex)
+    Responsive Tools (github.com/ajlkn/responsive-tools)
